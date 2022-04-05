@@ -1,4 +1,8 @@
 #EXTM3U
+########################################################### TV ABERTA
 
-#EXTINF:-1 tvg-logo="https://www.bitmag.com.br/wp-content/uploads/2022/02/record-logo.jpg
+#EXTINF:-1 RECORD RJ="https://www.bitmag.com.br/wp-content/uploads/2022/02/record-logo.jpg
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
+
+EXTINF:-1 GLOBO RJ="https://www.bitmag.com.br/wp-content/uploads/2022/02/record-logo.jpg
+https://edge-aws.aovivotv.xyz/hls/s:51.158.161.235/globorj_bc15c774_411ed61b214b38a1d104b67dd5cbb268de3a5874/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjIzMi4yMTIuODYiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMC4wLjQ4OTYuNzkgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0OTE5MzAzMTt9
